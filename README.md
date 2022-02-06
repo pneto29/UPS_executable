@@ -6,10 +6,8 @@ This repository contains an implementation of the Iterative closest point.
 
 The dependencies are header-only and are all included in the ext directory. As a consequence, there is nothing to do.
 
-* PCL (Point cloud library) - 1.7 version
 * Linux Ubuntu 16.04 or 18.04
-* Qt Creator 4.5.2
-
+* chmod a+x execute_poly 
 
 ## Parameters ##
 * argv[1]: target cloud

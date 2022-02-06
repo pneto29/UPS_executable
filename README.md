@@ -10,18 +10,6 @@ The dependencies are header-only and are all included in the ext directory. As a
 * Linux Ubuntu 16.04 or 18.04
 * Qt Creator 4.5.2
 
-## Usage ##
-
-* Create a folder named build (for example)
-mkdir build
-* Enter folder
-cd build/
-* Run "CmakeLists.txt" which is a path before build
-cmake ..
-* Run make
-make
-* When the program has been built, run: 
-./icp_p2pt argv[1] argv[2] argv[3]
 
 ## Parameters ##
 * argv[1]: target cloud
@@ -35,5 +23,14 @@ make
 * argv[9]: save file with results (.txt)
 
 
-## Values of parameters
+## Values of parameters (Suggestion)
 
+* argv[1]: tbunny_0.pcd
+* argv[2]: bunny_45.pcd
+* argv[3]: 0.043
+* argv[4]: 0.043
+* argv[5]: 0.043
+* argv[6]: 2000
+* argv[7]: 1000
+* argv[8]: 30
+* argv[9]: bunny_results.txt

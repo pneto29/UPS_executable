@@ -1,4 +1,4 @@
-# IterativeClosestPoint (point to plane metric) #
+# UPS registration #
 
 This repository contains an implementation of the Iterative closest point. 
 

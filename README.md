@@ -1,6 +1,6 @@
 # UPS registration #
 
-This repository contains an implementation of the Iterative closest point. 
+In this repository we have the UPS registration algorithm executable.
 
 ## Dependencies ##
 
